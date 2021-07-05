@@ -13,7 +13,7 @@ Alternatively, [find me on telegram](https://t.me/J_A_R_V_l_S)!
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithumon/tgbot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thechosenone07
 
 ## Starting the bot.
 
