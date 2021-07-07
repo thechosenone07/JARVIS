@@ -20,9 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 HEY {}, I'M {}!
-ᴄᴏɴɢɴɪᴛɪᴠᴇ ʀᴇᴄᴀʟɪʙʀᴀᴛɪᴏɴ !
-ᴘᴏᴡᴇʀɪɴɢ ᴏɴ ..!!
-ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴛᴏ ᴀᴄᴄᴇss ᴛʜɪs ᴀʀᴇᴀ 🔱
+
 press /help for knowing me [BETTER](tg://user?id={}) !.
 👽  -  @J_A_R_V_l_S
 
