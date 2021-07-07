@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-HEY, I'M JARVIS ❄️
+HEY, I'M {}, made with ❤ {}!
 ᴄᴏɴɢɴɪᴛɪᴠᴇ ʀᴇᴄᴀʟɪʙʀᴀᴛɪᴏɴ !
 ᴘᴏᴡᴇʀɪɴɢ ᴏɴ ..!!
 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴛᴏ ᴀᴄᴄᴇss ᴛʜɪs ᴀʀᴇᴀ 🔱
