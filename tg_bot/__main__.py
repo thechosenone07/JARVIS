@@ -30,19 +30,6 @@ press /help for knowing me better !.
 
 👽  -  @J_A_R_V_l_S 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 """
 
 HELP_STRINGS = """
@@ -59,12 +46,7 @@ the things I can help you with.
    - in a group: will redirect you to pm, with all that chat's settings.
 {}
 And the following:
-""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-
-
-
-
-
+""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n") 
 
 IMPORTED = {}
 MIGRATEABLE = []
