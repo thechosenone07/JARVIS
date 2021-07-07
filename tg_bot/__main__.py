@@ -142,9 +142,9 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="OWNER", url="https://t.me/@J_A_R_V_l_S")],
-                     [InlineKeyboardButton(text="DEVELOPER", url="https://t.me/@J_A_R_V_l_S"), InlineKeyboardButton(text="ADMIN", url="https://t.me/@J_A_R_V_l_S")],
-                     [InlineKeyboardButton(text="CREATOR", url="https://t.me/@J_A_R_V_l_S"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                    [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="OWNER", url="https://t.me/J_A_R_V_l_S")],
+                     [InlineKeyboardButton(text="DEVELOPER", url="https://t.me/J_A_R_V_l_S"), InlineKeyboardButton(text="ADMIN", url="https://t.me/J_A_R_V_l_S")],
+                     [InlineKeyboardButton(text="CREATOR", url="https://t.me/J_A_R_V_l_S"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
