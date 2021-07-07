@@ -19,7 +19,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-HEY {}, I'M {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) CLICK /help.
+HEY, I'M JARVIS ❄️
+
+ᴄᴏɴɢɴɪᴛɪᴠᴇ ʀᴇᴄᴀʟɪʙʀᴀᴛɪᴏɴ !
+ᴘᴏᴡᴇʀɪɴɢ ᴏɴ ..!!
+ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴛᴏ ᴀᴄᴄᴇss ᴛʜɪs ᴀʀᴇᴀ 🔱
+press /help for knowing me better !.
+👽  -  @J_A_R_V_l_S 
 
 """
 
